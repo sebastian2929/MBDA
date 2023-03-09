@@ -1,0 +1,5 @@
+no puedo comprar un juego si no se cuales existen. :D
+Transacciones se valida todo.
+pasar de bases de datos a sistema de datos.
+problemas de concurrencia.
+(CatalogoJuego) Tabla
